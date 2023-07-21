@@ -1,9 +1,6 @@
 <h1 align="center">Hola 👋, soy Wagner Castañeda Linares</h1>
 <h3 align="center">Hola, soy desarrollador junior y estudio ingeniería de sistemas.</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=wcastaneda-linares&label=Profile%20views&color=0e75b6&style=fla t" alt="wcastaneda-linares" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wcastaneda-linares" alt="wcastaneda-linares" /></a> </p> <h3
-
-align="left">Conéctate conmigo
-
-:</h3>
+align="left">Conéctate conmigo:</h3>
 <p align="left">
 </p>
 

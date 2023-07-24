@@ -1,11 +1,3 @@
-<style>
-  .centrado {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-</style>
-
 <h1 align="center">Hola  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Wagner Castañeda Linares</h1>
 <h3 align="center">Hola, soy desarrollador junior y estudio ingeniería de sistemas.</h3>
 
@@ -28,7 +20,7 @@ align="left">Conéctate conmigo:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wcastaneda-linares&show_icons=true&locale=en&layout=compact" alt="wcastaneda-linares" /></p>
 
-<div class="centrado">
+<div style="text-align: center;">
   <sumary><b> Connect with me: </b><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </sumary>  
     
 <br/>

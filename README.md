@@ -8,9 +8,7 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-<hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wcastaneda-linares&label=Profile%20views&color=0e75b6&style=fla t" alt="wcastaneda-linares" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wcastaneda-linares" alt="wcastaneda-linares" /></a> </p> <h3
-</p>
+
 
 <hr>
 <h3 align="left">Idiomas y herramientas: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h3>
@@ -25,7 +23,8 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wcastaneda-linares&show_icons=true&locale=en" alt="wcastaneda-linares"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wcastaneda-linares&" alt="wcastaneda-linares"></p>
 
-<p></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wcastaneda-linares&label=Profile%20views&color=0e75b6&style=fla t" alt="wcastaneda-linares" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wcastaneda-linares" alt="wcastaneda-linares" /></a> </p> <h3
+</p>
 
 <hr>
 

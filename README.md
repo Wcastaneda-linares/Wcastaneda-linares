@@ -1,7 +1,7 @@
 <h1 align="center">Hola  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Wagner Castañeda Linares</h1>
 <h3 align="center">Hola, soy desarrollador junior y estudio ingeniería de sistemas.</h3>
 
-<p><img align="right" src="https://github.com/Wcastaneda-linares/Wcastaneda-linares/blob/main/PerfilGithub.png" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Wcastaneda-linares/Wcastaneda-linares/blob/main/PerfilGithub.png" alt="550px" /></p>
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"

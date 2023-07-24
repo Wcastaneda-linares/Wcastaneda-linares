@@ -23,7 +23,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wcastaneda-linares&show_icons=true&locale=en" alt="wcastaneda-linares"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wcastaneda-linares&" alt="wcastaneda-linares"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wcastaneda-linares&label=Profile%20views&color=0e75b6&style=fla t" alt="wcastaneda-linares"> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wcastaneda-linares" alt="wcastaneda-linares" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wcastaneda-linares" alt="wcastaneda-linares" /></a> </p>
 
 <hr>
 

@@ -22,33 +22,26 @@ align="left">Conéctate conmigo:</h3>
 
 
 <details>
-<summary> Connect with me🤝: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </summary>  
+<summary> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </summary>  
 
 <br/>
 
-<a href="https://t.me/Dave_bhandari">
+<a href="https://t.me/wcastanedal">
   <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/Wcastaneda-linares">
   <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
-<a href="https://instagram.com/Dave_bhandari/">
+<a href="https://instagram.com/linares.w_/">
   <img align="left" alt="Dave's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
-<a href="https://www.facebook.com/people/Dave-Bhandari/100005906536571">
+<a href="https://www.facebook.com/wcastanedalinares">
   <img align="left" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
-<a href="https://twitter.com/dave_bhandari">
-  <img align="left" alt="Dave's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
-
-<a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
-  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
-</a>
 
 <br/>
 

@@ -41,6 +41,7 @@
       <img align="center" alt="Wagner Facebook" width="32px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512">
 </a>
 <a href="mailto:wcastanedal@miumg.edu.gt">
+      <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" width="32">
       <img align="center" alt="Wagner Email" width="32px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512">
 </a>
 <hr>

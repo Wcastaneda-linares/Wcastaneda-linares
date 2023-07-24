@@ -3,8 +3,6 @@
 
 <p><img align="right" src="https://github.com/Wcastaneda-linares/Wcastaneda-linares/blob/main/PerfilGithub.png" alt="adam-pw" /></p>
 
-![Aditya Vikram Singh Banner]([https://github.com/Wcastaneda-linares/Wcastaneda-linares/blob/main/PerfilGithub.png])
-
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>

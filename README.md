@@ -20,13 +20,7 @@ align="left">Conéctate conmigo:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wcastaneda-linares&show_icons=true&locale=en&layout=compact" alt="wcastaneda-linares" /></p>
 
-### Here's my github README stats:
 
-![AvidCoder101 GitHub stats](https://github-readme-stats.vercel.app/api?username=AvidCoder101&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical)](https://git.io/streak-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AvidCoder101)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 
 <i>Conectate conmigo:   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></i><br>
 

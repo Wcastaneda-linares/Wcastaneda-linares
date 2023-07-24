@@ -45,7 +45,3 @@ align="left">Conéctate conmigo:</h3>
   
 </div>
 
-
-
-</div>
-

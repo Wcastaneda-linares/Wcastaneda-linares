@@ -22,10 +22,7 @@
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wcastaneda-linares&show_icons=true&locale=en" alt="wcastaneda-linares"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wcastaneda-linares&show_icons=true&locale=en&layout=compact" alt="wcastaneda-linares" width=420px></p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wcastaneda-linares&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Wcastaneda-linares&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="wcastaneda-linares" /></p>
+<p  align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Wcastaneda-linares&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="wcastaneda-linares" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wcastaneda-linares" alt="wcastaneda-linares"></a> </p>
 
 <hr>

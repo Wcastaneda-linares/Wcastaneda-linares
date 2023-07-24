@@ -29,16 +29,16 @@
 
   <h3><b> Connect with me: </b><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=65px> </h3>  
 <a href="https://t.me/wcastanedal">
-      <img align="center" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png">
+      <img align="center" alt="Dave's Telegram" width="32px" src="https://web.telegram.org/img/logo_share.png">
 </a>
 <a href="https://github.com/Wcastaneda-linares">
-      <img align="center" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png">
+      <img align="center" alt="Dave's Github" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png">
 </a>
 <a href="https://instagram.com/linares.w_/">
-      <img align="center" alt="Dave's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png">
+      <img align="center" alt="Dave's Instagram" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png">
 </a>
 <a href="https://www.facebook.com/wcastanedalinares">
-      <img align="center" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512">
+      <img align="center" alt="Dave's Facebook" width="32px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512">
 </a>
 <hr>
 <br/>

@@ -21,7 +21,7 @@ align="left">Conéctate conmigo:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wcastaneda-linares&show_icons=true&locale=en&layout=compact" alt="wcastaneda-linares" /></p>
 
 
-<sumary> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </sumary>  
+<sumary><b> Connect with me: </b><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </sumary>  
 
 <br/>
 

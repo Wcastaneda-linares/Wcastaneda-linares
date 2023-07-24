@@ -1,7 +1,7 @@
 <h1 align="center">Hola  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Wagner Castañeda Linares</h1>
 <h3 align="center">Hola, soy desarrollador junior y estudio ingeniería de sistemas.</h3> 
 
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Aditya Vikram Singh Banner]([https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://github.com/Wcastaneda-linares/Wcastaneda-linares/blob/main/PerfilGithub.png))
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"

@@ -3,11 +3,12 @@
 
 <p><img align="right" src="https://github.com/Wcastaneda-linares/Wcastaneda-linares/blob/main/PerfilGithub.png" alt="550px" /></p>
 
+<hr>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wcastaneda-linares&label=Profile%20views&color=0e75b6&style=fla t" alt="wcastaneda-linares" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wcastaneda-linares" alt="wcastaneda-linares" /></a> </p> <h3
 </p>
 
@@ -37,9 +38,10 @@
 <a href="https://www.facebook.com/wcastanedalinares">
       <img align="center" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
+<hr>
 <br/>
 </div>
-</hr>
+
 
   
 </div>

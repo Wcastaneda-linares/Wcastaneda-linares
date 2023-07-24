@@ -21,7 +21,7 @@
  <h3><b>Github Stats:  </b><img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width=32px></h3>
 
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wcastaneda-linares&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wcastaneda-linares&show_icons=true&locale=en" alt="wcastaneda-linares"></p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wcastaneda-linares&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 

@@ -21,7 +21,6 @@ align="left">Conéctate conmigo:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wcastaneda-linares&show_icons=true&locale=en&layout=compact" alt="wcastaneda-linares" /></p>
 
 
-<details>
 <p> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </p>  
 
 <br/>
@@ -41,11 +40,8 @@ align="left">Conéctate conmigo:</h3>
 <a href="https://www.facebook.com/wcastanedalinares">
   <img align="left" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
-
-
 <br/>
 
-</details>
 
 </div>
 

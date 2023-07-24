@@ -28,7 +28,7 @@
 <p></p>
 
 <hr>
-<div>
+
   <h3><b> Connect with me: </b><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h3>  
 <br/> 
 <a href="https://t.me/wcastanedal">
@@ -45,7 +45,7 @@
 </a>
 <hr>
 <br/>
-</div>
+
 
 
   

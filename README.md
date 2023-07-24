@@ -21,7 +21,7 @@
  <h3><b>Github Stats:  </b><img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width=32px></h3>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wcastaneda-linares&show_icons=true&locale=en" alt="wcastaneda-linares"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wcastaneda-linares&show_icons=true&locale=en&layout=compact" alt="wcastaneda-linares" width=425px></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wcastaneda-linares&show_icons=true&locale=en" alt="wcastaneda-linares"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wcastaneda-linares&show_icons=true&locale=en&layout=compact" alt="wcastaneda-linares" width=420px></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wcastaneda-linares" alt="wcastaneda-linares"></a> </p>
 

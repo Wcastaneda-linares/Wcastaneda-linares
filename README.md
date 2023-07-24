@@ -13,7 +13,7 @@
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=40> | 
                    
 
 <h3 align="left">Idiomas y herramientas: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h3>

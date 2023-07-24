@@ -28,7 +28,6 @@
 <hr>
 
   <h3><b> Connect with me: </b><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=65px> </h3>  
-<br/> 
 <a href="https://t.me/wcastanedal">
       <img align="center" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>

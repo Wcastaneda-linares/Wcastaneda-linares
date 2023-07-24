@@ -22,7 +22,7 @@ align="left">Conéctate conmigo:</h3>
 
 
 <details>
-<summary> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </summary>  
+<p> Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </p>  
 
 <br/>
 

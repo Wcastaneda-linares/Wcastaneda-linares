@@ -24,9 +24,10 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wcastaneda-linares&show_icons=true&locale=en" alt="wcastaneda-linares" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wcastaneda-linares&show_icons=true&locale=en" alt="wcastaneda-linares"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wcastaneda-linares&" alt="wcastaneda-linares"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wcastaneda-linares&" alt="wcastaneda-linares" /></p>
+<p></p>
+
 <hr>
 <div align="center"">
   <sumary><b> Connect with me: </b><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </sumary>  
